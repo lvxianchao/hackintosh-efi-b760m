@@ -7,4 +7,5 @@
 
 ## BIOS 设置
 
-`Advanced` -> `PCIe/PCI Sub-system Settings` -> `Re-size BAR Support`: Disabled
+* 关闭: `Advanced` -> `PCIe/PCI Sub-system Settings` -> `Re-size BAR Support`
+* 其它的和 OpenCore 密码一样
